@@ -37,22 +37,22 @@ The dataset esc50.csv can be accesed through the ESC-50-master/meta folder. A de
 | src_file |Name of the source that the file belongs to       |
 | take |Letter disambiguating between different fragments from the same Freesound clip      |
 
-A more thorough description of the dataset is available in the original paper with some supplementary materials on GitHub: ESC: Dataset for Environmental Sound Classification - paper replication data.
+A more thorough description of the dataset is available in the original [paper](https://www.karolpiczak.com/papers/Piczak2015-ESC-Dataset.pdf) with some supplementary materials on GitHub: [ESC: Dataset for Environmental Sound Classification - paper replication data](https://github.com/karolpiczak/paper-2015-esc-dataset).
 
 ---
 # License
-The dataset is available under the terms of the Creative Commons Attribution Non-Commercial license. A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution). Attributions for each clip are available in the LICENSE file.
+The dataset is available under the terms of the [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/3.0/). A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution).
 
 ---
 # Curator
-Karol Piczak is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
+]Karol Piczak](https://twitter.com/karoldvl) is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
 
 # Citing
 If you find this dataset useful in an academic setting please cite:
 
 K. J. Piczak. ESC: Dataset for Environmental Sound Classification. Proceedings of the 23rd Annual ACM Conference on Multimedia, Brisbane, Australia, 2015.
 
-[DOI: http://dx.doi.org/10.1145/2733373.2806390]
+[DOI: http://dx.doi.org/10.1145/2733373.2806390](https://dl.acm.org/doi/10.1145/2733373.2806390)
 
 @inproceedings{piczak2015dataset,
   title = {{ESC}: {Dataset} for {Environmental Sound Classification}},
