@@ -54,14 +54,6 @@ K. J. Piczak. ESC: Dataset for Environmental Sound Classification. Proceedings o
 
 [DOI: http://dx.doi.org/10.1145/2733373.2806390](https://dl.acm.org/doi/10.1145/2733373.2806390)
 
-@inproceedings{piczak2015dataset,
-  title = {{ESC}: {Dataset} for {Environmental Sound Classification}},
-  author = {Piczak, Karol J.},
-  booktitle = {Proceedings of the 23rd {Annual ACM Conference} on {Multimedia}},
-  date = {2015-10-13},
-  url = {http://dl.acm.org/citation.cfm?doid=2733373.2806390},
-  doi = {10.1145/2733373.2806390},
-  location = {{Brisbane, Australia}},
   isbn = {978-1-4503-3459-4},
   publisher = {{ACM Press}},
   pages = {1015--1018}
