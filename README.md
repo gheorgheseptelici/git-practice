@@ -53,8 +53,3 @@ If you find this dataset useful in an academic setting please cite:
 K. J. Piczak. ESC: Dataset for Environmental Sound Classification. Proceedings of the 23rd Annual ACM Conference on Multimedia, Brisbane, Australia, 2015.
 
 [DOI: http://dx.doi.org/10.1145/2733373.2806390](https://dl.acm.org/doi/10.1145/2733373.2806390)
-
-  isbn = {978-1-4503-3459-4},
-  publisher = {{ACM Press}},
-  pages = {1015--1018}
-} 
