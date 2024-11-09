@@ -1,5 +1,5 @@
 # git-practice - Environmental Sound Classification
-**The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification. The dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class). For convenience, they are grouped in 5 loosely defined major categories (10 classes per category):**
+The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification. The dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class). For convenience, they are grouped in 5 loosely defined major categories (10 classes per category):
 
 • animal sounds,
 
@@ -11,7 +11,7 @@
 
 • exterior/urban noises
 
-**The ESC-10 is a selection of 10 classes from the bigger dataset, representing three general groups of sounds:**
+The ESC-10 is a selection of 10 classes from the bigger dataset, representing three general groups of sounds:
 
 • transient/percussive sounds, sometimes with very meaningful temporal patterns (sneezing, dog barking, clock
 ticking)
@@ -38,9 +38,11 @@ The dataset esc50.csv can be accesed through the ESC-50-master/meta folder. A de
 | take |Letter disambiguating between different fragments from the same Freesound clip      |
 
 A more thorough description of the dataset is available in the original paper with some supplementary materials on GitHub: ESC: Dataset for Environmental Sound Classification - paper replication data.
+
 ---
 # License
 The dataset is available under the terms of the Creative Commons Attribution Non-Commercial license. A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution). Attributions for each clip are available in the LICENSE file.
+
 ---
 # Curator
 Karol Piczak is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
