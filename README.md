@@ -40,7 +40,9 @@ The dataset esc50.csv can be accesed through the ESC-50-master/meta folder. A de
 A more thorough description of the dataset is available in the original [paper](https://www.karolpiczak.com/papers/Piczak2015-ESC-Dataset.pdf) with some supplementary materials on GitHub: [ESC: Dataset for Environmental Sound Classification - paper replication data](https://github.com/karolpiczak/paper-2015-esc-dataset).
 
 # License
-The dataset is available under the terms of the [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/3.0/). A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution).
+The dataset is available under the terms of the [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/3.0/).
+
+A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution).
 
 # Curator
 [Karol Piczak](https://twitter.com/karoldvl) is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
