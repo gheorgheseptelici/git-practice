@@ -1,5 +1,6 @@
 # git-practice - Environmental Sound Classification
 The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification. The dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class). For convenience, they are grouped in 5 loosely defined major categories (10 classes per category):
+
 • animal sounds,
 
 • natural soundscapes and water sounds,
