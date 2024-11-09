@@ -23,7 +23,7 @@ baby, crowing rooster )
 waves, fire crackling, helicopter, chainsaw)
 
 ---
-Clips in this dataset have been manually extracted from public field recordings gathered by the Freesound.org project. The dataset has been prearranged into 5 folds for comparable cross-validation, making sure that fragments from the same original source file are contained in a single fold.
+Clips in this dataset have been manually extracted from public field recordings gathered by the [Freesound.org project.] (https://freesound.org/) The dataset has been prearranged into 5 folds for comparable cross-validation, making sure that fragments from the same original source file are contained in a single fold.
 
 The dataset esc50.csv can be accesed through the ESC-50-master/meta folder. A description of each column can be found in the table below:
 
