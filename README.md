@@ -43,7 +43,7 @@ A more thorough description of the dataset is available in the original [paper](
 The dataset is available under the terms of the [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/3.0/). A smaller subset (clips tagged as ESC-10) is distributed under CC BY (Attribution).
 
 # Curator
-]Karol Piczak](https://twitter.com/karoldvl) is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
+[Karol Piczak](https://twitter.com/karoldvl) is a machine learning scientist focusing on sound classification tasks and assistant professor at Warsaw University of Technology.
 
 # Citing
 If you find this dataset useful in an academic setting please cite:
