@@ -1,5 +1,5 @@
 # git-practice - Environmental Sound Classification
-The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification. The dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class). For convenience, they are grouped in 5 loosely defined major categories (10 classes per category):
+**The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification. The dataset consists of 5-second-long recordings organized into 50 semantical classes (with 40 examples per class). For convenience, they are grouped in 5 loosely defined major categories (10 classes per category):**
 
 • animal sounds,
 
@@ -11,7 +11,7 @@ The ESC-50 dataset is a labeled collection of 2000 environmental audio recording
 
 • exterior/urban noises
 
-The ESC-10 is a selection of 10 classes from the bigger dataset, representing three general groups of sounds:
+**The ESC-10 is a selection of 10 classes from the bigger dataset, representing three general groups of sounds:**
 
 • transient/percussive sounds, sometimes with very meaningful temporal patterns (sneezing, dog barking, clock
 ticking)
@@ -22,6 +22,7 @@ baby, crowing rooster )
 • more or less structured noise/soundscapes (rain, sea
 waves, fire crackling, helicopter, chainsaw)
 
+---
 Clips in this dataset have been manually extracted from public field recordings gathered by the Freesound.org project. The dataset has been prearranged into 5 folds for comparable cross-validation, making sure that fragments from the same original source file are contained in a single fold.
 
 The dataset esc50.csv can be accesed through the ESC-50-master/meta folder. A description of each column can be found in the table below:
